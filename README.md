@@ -11,8 +11,7 @@ Xcode 10升级报错：clang: error: linker command failed with exit code 1(use 
 
 ### For Device
 Put tbd copy to the path:
-
-/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/
+<font color=#00ffff>/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/lib/</font>
 
 ### For Simulator
 Put dylib copy to the path:
